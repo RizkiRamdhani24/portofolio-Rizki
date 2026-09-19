@@ -1,2 +1,1 @@
-link portofolio saya 
-https://vercel.com/rizkidanis-projects/rizki-portfolio/observability?period=6h
+Saya adalah mahasiswa semester 5 yang sedang mencari magang
